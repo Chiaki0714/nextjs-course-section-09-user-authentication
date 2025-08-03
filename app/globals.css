@@ -91,10 +91,14 @@ ul {
   color: #4b34a9;
 }
 
-#form-errors {
+/* #form-errors {
   list-style: none;
   margin: 0;
   padding: 0;
+  color: #a21d4c;
+} */
+
+.form-error {
   color: #a21d4c;
 }
 
